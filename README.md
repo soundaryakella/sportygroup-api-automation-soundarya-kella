@@ -1,6 +1,6 @@
 ⚙️ Setup Instructions
 1. Clone repo
-git clone <your-api-repo-url>
+git clone https://github.com/soundaryakella/sportygroup-api-automation-soundarya-kella.git
 cd home-test-api
 
 2. Create virtual environment
